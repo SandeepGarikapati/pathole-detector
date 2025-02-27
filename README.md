@@ -1,4 +1,6 @@
 # Pothhole Detection using YOLO
+Implemented a robust pothole detection system using Ultralytics YOLOv8 and custom datasets from Roboflow, enhancing road safety and infrastructure maintenance through automated analysis
+
 
 ## Google Colab File Link (A Single Click Solution)
 The google colab file link for yolov8 segmentation and tracking is provided below, you can check the implementation in Google Colab, and its a single click implementation
